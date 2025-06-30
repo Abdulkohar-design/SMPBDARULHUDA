@@ -93,9 +93,9 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 text-gray-400 text-sm">
               <span>© {currentYear} Yayasan Darul Huda Arrohmani.</span>
-              <span>Dibuat dengan</span>
+              <span>Dibuat Oleh</span>
               <Heart className="text-red-500" size={16} />
-              <span>untuk pendidikan Islam</span>
+              <span>Vdmax Studio Ai</span>
             </div>
             <div className="flex items-center space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-amber-400 transition-colors duration-200 text-sm">
