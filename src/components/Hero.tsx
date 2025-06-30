@@ -78,7 +78,7 @@ const Hero = () => {
               <div className="text-center mb-6">
                 <div className="w-48 h-48 mx-auto mb-6 rounded-2xl overflow-hidden shadow-lg">
                   <img 
-                    src="/public/Untitled-1dd.png" 
+                    <img src="/Untitled-1dd.png" alt="Deskripsi gambar" />
                     alt="APA ALM. KH. ABDUL ROHMAN - Pendiri Pondok Pesantren Darul Huda Arrohmani"
                     className="w-full h-full object-cover"
                   />
