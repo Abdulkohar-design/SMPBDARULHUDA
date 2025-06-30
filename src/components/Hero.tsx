@@ -52,7 +52,7 @@ const Hero = () => {
                 <div className="flex items-center justify-center w-12 h-12 bg-amber-100 rounded-lg mb-3 mx-auto">
                   <Users className="text-amber-600" size={24} />
                 </div>
-                <div className="text-2xl font-bold text-gray-900">1000+</div>
+                <div className="text-2xl font-bold text-gray-900">100+</div>
                 <div className="text-sm text-gray-600">Siswa Aktif</div>
               </div>
               <div className="text-center">
