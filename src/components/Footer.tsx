@@ -95,7 +95,7 @@ const Footer = () => {
               <span>© {currentYear} Yayasan Darul Huda Arrohmani.</span>
               <span>Dibuat Oleh</span>
               <Heart className="text-red-500" size={16} />
-              <span>Vdmax Studio Ai</span>
+              <span>Vdmax Studio Ai Contact 085320410340 untuk order jasa pembuatan website</span>
             </div>
             <div className="flex items-center space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-amber-400 transition-colors duration-200 text-sm">
