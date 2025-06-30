@@ -12,7 +12,7 @@ const Contact = () => {
     {
       icon: <Mail className="text-blue-600" size={32} />,
       title: 'Email',
-      content: 'info@darulhuda.ac.id',
+      content: 'darulhuda715@gmail.com',
       subtitle: 'Kirim pertanyaan Anda'
     },
     {
