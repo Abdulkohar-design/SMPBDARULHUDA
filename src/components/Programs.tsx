@@ -25,8 +25,8 @@ const Programs = () => {
       color: 'purple'
     },
     {
-      title: 'SMK',
-      description: 'Sekolah Menengah Kejuruan dengan berbagai program keahlian untuk persiapan dunia kerja.',
+      title: 'SMATER',
+      description: 'Sekolah Menengah Atas Terbuka.',
       icon: <Clock className="text-orange-600" size={32} />,
       features: ['Program Keahlian', 'Praktek Kerja', 'Sertifikasi Profesi', 'Link & Match Industri'],
       color: 'orange'
