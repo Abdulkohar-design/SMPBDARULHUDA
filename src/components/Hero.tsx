@@ -11,7 +11,7 @@ const Hero = () => {
             <div className="space-y-4">
               <div className="inline-flex items-center px-4 py-2 bg-amber-100 text-amber-800 rounded-full text-sm font-semibold">
                 <span className="w-2 h-2 bg-amber-500 rounded-full mr-2 animate-pulse"></span>
-                PPDB 2025/2026 Dibuka
+                SPMB 2025/2026 Dibuka
               </div>
               <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
                 <span className="text-amber-600">SPMB</span><br />
