@@ -14,12 +14,12 @@ const Hero = () => {
                 PPDB 2025/2026 Dibuka
               </div>
               <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                <span className="text-amber-600">PPDB</span><br />
+                <span className="text-amber-600">SPMB</span><br />
                 <span className="text-emerald-700">Yayasan Darul Huda</span><br />
                 <span className="text-gray-800">Arrohmani</span>
               </h1>
               <h2 className="text-xl lg:text-2xl text-gray-700 font-medium">
-                Penerimaan Peserta Didik Baru
+                Sistem Penerimaan Murid Baru
               </h2>
               <div className="text-4xl lg:text-5xl font-bold text-amber-600">
                 2025/2026
