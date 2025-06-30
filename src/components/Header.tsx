@@ -39,7 +39,7 @@ const Header = () => {
             </div>
           </div>
           <div className="hidden md:block">
-            <span>PPDB 2025/2026 - Daftar Sekarang!</span>
+            <span>SPMB 2025/2026 - Daftar Sekarang!</span>
           </div>
         </div>
       </div>
