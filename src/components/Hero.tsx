@@ -77,11 +77,12 @@ const Hero = () => {
             <div className="bg-white rounded-2xl shadow-2xl p-8 max-w-md mx-auto">
               <div className="text-center mb-6">
                 <div className="w-48 h-48 mx-auto mb-6 rounded-2xl overflow-hidden shadow-lg">
-                  <img 
-                    <img src="/Untitled-1dd.png" />
-                    alt="APA ALM. KH. ABDUL ROHMAN - Pendiri Pondok Pesantren Darul Huda Arrohmani"
-                    className="w-full h-full object-cover"
-                  />
+                  <img
+                      src="/Untitled-1dd.png"
+                      alt="APA ALM. KH. ABDUL ROHMAN - Pendiri Pondok Pesantren Darul Huda Arrohmani"
+                      className="w-full h-full object-cover"
+                    />
+
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">
                   APA ALM. KH. ABDUL ROHMAN
